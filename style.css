@@ -1,0 +1,32 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+
+ h1{
+   color:rgb(139, 23, 139);
+   text-decoration: underline;
+ }
+ #btn{
+   background-color: cadetblue;
+   font-weight: 700;
+   padding: 0.4rem;
+   font-size: 18px;
+   border: 2px solid black;
+ }
+ input {
+   height: 30px;
+   width:200px;
+   font-size: 20px;
+   border: 
+   2px solid black;
+ }
+ li{
+   font-size: 20px;
+ }
+ .delete{
+      margin-left:10px;
+      background-color: cornflowerblue;
+      border-radius: 2px;
+      font-weight: 600;
+ }
